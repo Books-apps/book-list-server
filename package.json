@@ -4,7 +4,7 @@
   "description": "Week 3 project - book app",
   "main": "server.js",
   "engines": {
-    "node": "9.4.0"
+    "node": "8.11.1"
     },
   "dependencies": {
     "cors": "^2.8.4",
