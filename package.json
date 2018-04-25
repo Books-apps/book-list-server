@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Week 3 project - book app",
   "main": "server.js",
+  "engines": {
+    "node": "9.4.0"
+    },
   "dependencies": {
     "cors": "^2.8.4",
     "express": "^4.16.3",
